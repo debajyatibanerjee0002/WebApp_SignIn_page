@@ -12,7 +12,7 @@ This project is a starting point for a Flutter application.
 
 <img height="300px" src="screenshot_3.png"> <img height="300px" src="screenshot_4.png">
 
-<img height="300px" src="screenshot_5.png">
+<img height="400px" src="screenshot_5.png">
 
 A few resources to get you started if this is your first Flutter project:
 
